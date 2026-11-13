@@ -1,0 +1,10 @@
+{
+  "xml.downloadExternalResources.enabled": true,
+  "cmake.sourceDirectory": "/home/won/PNS/100_Development/110_ROS2JAZZY/gazebo_ws/src/aws_robomaker_bookstore_world",
+
+  "urdf-visualizer.packages": {
+    "rover_description": "${workspaceFolder}/ros2_rover/rover_description"
+  },
+  "urdf-visualizer.cacheMesh": false
+
+}
